@@ -36,3 +36,6 @@ while the longitudes are depicted by x and y.
 The figure below depicts a sphere and circles of different radii and sizes that can be drawn on its surface. 
 
 
+![image](https://github.com/shi-vani/Finding-Cabs-nearby-using-GCD-/assets/70535438/3dc2a336-46d4-47b2-a631-202595f0c1a1)
+
+
