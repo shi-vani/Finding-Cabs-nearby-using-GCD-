@@ -16,3 +16,16 @@ Save the code and the file customers.json in a same location.
 Now, compile the code(using cmd : g++ file_name.cpp) and run it(using cmd : ./a.out /home/gfg/customers.json) with passing file name customers.json along with proper location(e.g. /home/gfg/customers.json).
 
 A file named answers.json will be created on the same location where code and customers.json file is existing
+
+# Great Circle Formula
+The great circle formula is given as follows:
+
+d = rcos-1[cos a cos b cos(x-y) + sin a sin b]
+
+where, 
+
+r depicts the earth’s radius, 
+
+a and b depict the latitude 
+
+while the longitudes are depicted by x and y.
