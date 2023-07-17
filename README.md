@@ -29,3 +29,10 @@ r depicts the earth’s radius,
 a and b depict the latitude 
 
 while the longitudes are depicted by x and y.
+
+ # Description
+ The greatest circle that may be drawn on the surface of a sphere is the great circle. A great circle is a region of a sphere that encompasses the sphere’s diameter, and also is the shortest distance between any two places on the sphere’s surface. It is also known as the Romanian Circle. 
+
+The figure below depicts a sphere and circles of different radii and sizes that can be drawn on its surface. 
+
+
